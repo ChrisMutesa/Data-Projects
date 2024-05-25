@@ -1,6 +1,6 @@
 -- DATA CLEANINING PROJECT FOR FIRING DATA RECORDS
 
--- N.B: Project description in the comment above
+-- N.B: Project description in the comment above 
 
 
 -- Steps:
