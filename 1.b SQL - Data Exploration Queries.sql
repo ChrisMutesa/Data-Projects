@@ -1,5 +1,8 @@
 -- Exploratory Data Analysis
 
+-- N.B: Project description in the comment above
+
+
 -- Here I am just going to explore the data and find trends or patterns or anything interesting like outliers
 
 
