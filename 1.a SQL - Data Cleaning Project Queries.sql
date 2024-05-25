@@ -1,5 +1,7 @@
 -- DATA CLEANINING PROJECT FOR FIRING DATA RECORDS
 
+-- N.B: Project description in the comment above
+
 
 -- Steps:
 -- 1. Remove duplicates
